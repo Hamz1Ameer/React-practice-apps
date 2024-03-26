@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Clone the repository using the following command:
+git clone https://github.com/Hamz1Ameer/React-practice-apps.git
+
 ## Available Scripts
 
 In the project directory, you can run:
